@@ -1,0 +1,13 @@
+:lang: no
+:doctitle: Kravbibliotek
+:keywords: Krav
+
+
+include::./felles/includes/commonincludes.adoc[]
+
+
+== Kapabilitetskrav
+
+== Segmentkrav
+
+== Strategiske krav

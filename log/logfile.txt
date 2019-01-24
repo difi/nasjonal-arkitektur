@@ -1,0 +1,247 @@
+
+13.01.2019 05:12:28: ErstattTekstIAlleFiler(:imagesdir:, :imagesdir@:)
+13.01.2019 05:12:28: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\main.adoc
+13.01.2019 05:12:28: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\arkitekturlandskap\felles\includes\standardheader.adoc
+13.01.2019 05:12:28: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\arkitekturlandskap\Kapabilitetsarkitektur\felles\includes\standardheader.adoc
+13.01.2019 05:12:28: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\arkitekturlandskap\Segmentarkitektur\felles\includes\standardheader.adoc
+13.01.2019 05:12:28: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\arkitekturlandskap\Strategisk-arkitektur\felles\includes\standardheader.adoc
+13.01.2019 05:12:28: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\kravbibliotek\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\Altinn_Autorisasjon.altinn.no\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\Brukerveiledning\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\Brukerveiledning\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\arkitekturmandat\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\gjennomføringsplaner\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\kompetansebibliotek\Archimate\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\kompetansebibliotek\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\organisering\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\ressurser\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\rammeverk\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\begreper\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\informasjonsmodeller\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\archimate-maler\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\asciidoc-maler\Backup\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\asciidoc-maler\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\asciidoc-maler\Research\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\bpmn-maler\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\uml-maler\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\attributes\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\includes\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\meta\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\templates\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\arkitekturrammeverk-for-samhandling\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\felles\includes\standardheader.adoc
+13.01.2019 05:12:29: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\main.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Begreper\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Brukstilfeller\Samhandlingsmønstre.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Brukstilfeller\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonssikkerhet\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\eMelding\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\eOppslag\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\eOppslag\sikkerhet\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Generelt.adoc
+13.01.2019 05:12:30: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Steg1.adoc
+13.01.2019 05:12:30: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Steg2.adoc
+13.01.2019 05:12:30: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Steg3.adoc
+13.01.2019 05:12:30: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Steg4.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Strategisk_tilnærming\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\LOS\docs\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\LOS\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\research\extracted-media\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\research\extracted-media\media\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\research\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\applikasjonsstandarder\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\datastandarder\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\forretningsstandarder\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\teknologistandarder\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\behovsinnspill\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\behovsinnspill\nasjonal-testdataportal\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\planer-og-oppfølging\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\planer-og-oppfølging\Kalender\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\planer-og-oppfølging\Prosjektportefølje\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\styringslogg\Beslutninger\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\styringslogg\felles\includes\standardheader.adoc
+13.01.2019 05:12:30: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\styringslogg\Samsvarsvurdering\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\vurderingskriterier\Analyser\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\vurderingskriterier\Begrensninger\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\vurderingskriterier\Drivere\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\vurderingskriterier\Effektmål\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\vurderingskriterier\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\vurderingskriterier\Interessenter\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\vurderingskriterier\Prinsipper\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\vurderingskriterier\Ytelsesmåling\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\blogg\2018-12-28-sporsmål-om-drift-og-forvaltning-av-ikt\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\blogg\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kildefiler\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\-arkitekturrammeverk- australia\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\arkitekturrammeverk-india\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\bok-dmbok2\main.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\bok-dmbok2\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\bok-imbok\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\bok-navigating-the-labyrinth\main.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\bok-navigating-the-labyrinth\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\kurs-archimate-intro\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\metode_siam\main.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\metode_siam\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\referansearkitektur-the-opengroup-iot\main.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\referansearkitektur-the-opengroup-iot\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 4 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\referansearkitektur-the-opengroup-it4it\main.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\referansearkitektur-the-opengroup-it4it\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\standard-archimate\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\standard-togaf\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\tema-digital-transformasjon\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\verktøy-asciidoc-asciidoctor\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\modeller\felles\includes\standardheader.adoc
+13.01.2019 05:12:31: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\om-plattformen\archi-tips.adoc
+13.01.2019 05:12:32: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\om-plattformen\main.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\om-plattformen\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\archi\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\asciidoc\asciidoc-tips.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\asciidoc\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\asciidoc-fx\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\asciidoctor\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\github\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\slack\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 1 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\main.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\test1.1.1\felles\includes\standardheader.adoc
+13.01.2019 05:12:32: 2 replacements in file C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\felles\includes\standardheader.adoc
+24.01.2019 05:47:51: GenerateHtml
+24.01.2019 05:47:54: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\main.adoc)
+24.01.2019 05:48:15: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\main.adoc)
+24.01.2019 05:48:18: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\arkitekturlandskap\main.adoc)
+24.01.2019 05:48:20: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\arkitekturlandskap\Kapabilitetsarkitektur\README.adoc)
+24.01.2019 05:48:22: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\arkitekturlandskap\Segmentarkitektur\README.adoc)
+24.01.2019 05:48:24: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\arkitekturlandskap\Strategisk-arkitektur\README.adoc)
+24.01.2019 05:48:25: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\kravbibliotek\main.adoc)
+24.01.2019 05:48:26: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\main.adoc)
+24.01.2019 05:48:27: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\README.adoc)
+24.01.2019 05:48:29: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\Altinn_Autorisasjon.altinn.no\Altinn_aut.adoc)
+24.01.2019 05:48:30: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\--dokumentasjonskonvensjoner.adoc)
+24.01.2019 05:48:31: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\--praktiske_tips_for_å_komme_igang.adoc)
+24.01.2019 05:48:32: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\README.adoc)
+24.01.2019 05:48:34: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\Brukerveiledning\dokumentasjonskonvensjoner.adoc)
+24.01.2019 05:48:35: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\Brukerveiledning\praktiske_tips_for_å_komme_igang.adoc)
+24.01.2019 05:48:36: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\Brukerveiledning\README.adoc)
+24.01.2019 05:48:38: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\Brukerveiledning\Tips_for_å_skrive_enkle_dokumenter.adoc)
+24.01.2019 05:48:39: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB\Brukerveiledning\Tips_for_å_skrive__bøker.adoc)
+24.01.2019 05:48:41: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\--dokumentasjonskonvensjoner.adoc)
+24.01.2019 05:48:43: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\--praktiske_tips_for_å_komme_igang.adoc)
+24.01.2019 05:48:45: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\README.adoc)
+24.01.2019 05:48:47: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\Brukerveiledning\dokumentasjonskonvensjoner.adoc)
+24.01.2019 05:48:51: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\Brukerveiledning\praktiske_tips_for_å_komme_igang.adoc)
+24.01.2019 05:48:53: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\Brukerveiledning\README.adoc)
+24.01.2019 05:48:55: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\Brukerveiledning\Tips_for_å_skrive_enkle_dokumenter.adoc)
+24.01.2019 05:48:57: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\løsningslandskap\Løsningsbyggeklosser\NAB.difi.no\Brukerveiledning\Tips_for_å_skrive__bøker.adoc)
+24.01.2019 05:48:58: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\main.adoc)
+24.01.2019 05:49:07: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\arkitekturmandat\README.adoc)
+24.01.2019 05:49:08: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\gjennomføringsplaner\README.adoc)
+24.01.2019 05:49:11: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\kompetansebibliotek\README.adoc)
+24.01.2019 05:49:13: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\kompetansebibliotek\Archimate\main.adoc)
+24.01.2019 05:49:15: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\organisering\README.adoc)
+24.01.2019 05:49:16: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\organisering-og-kompetanse\ressurser\README.adoc)
+24.01.2019 05:49:18: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\rammeverk\main.adoc)
+24.01.2019 05:49:20: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\main.adoc)
+24.01.2019 05:49:22: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\begreper\README.adoc)
+24.01.2019 05:49:24: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\README.adoc)
+24.01.2019 05:49:27: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\archimate-maler\README.adoc)
+24.01.2019 05:49:29: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\asciidoc-maler\Backup\mal_fellesløsning.adoc)
+24.01.2019 05:49:30: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\asciidoc-maler\Research\Artikkelmal-engelsk.adoc)
+24.01.2019 05:49:32: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\bpmn-maler\README.adoc)
+24.01.2019 05:49:34: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\maler\uml-maler\README.adoc)
+24.01.2019 05:49:35: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\README.adoc)
+24.01.2019 05:49:37: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\attributes\difi_attributes.adoc)
+24.01.2019 05:49:39: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\includes\commonincludes.adoc)
+24.01.2019 05:49:41: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\includes\commonlinks1.adoc)
+24.01.2019 05:49:42: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\includes\standardheader.adoc)
+24.01.2019 05:49:44: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\includes\translation.adoc)
+24.01.2019 05:49:45: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\templates\mal_generell_artikkel.adoc)
+24.01.2019 05:49:47: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\-felles\templates\templates.adoc)
+24.01.2019 05:49:49: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\metodikk\arkitekturrammeverk-for-samhandling\README.adoc)
+24.01.2019 05:49:50: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\main.adoc)
+24.01.2019 05:49:52: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Begreper\README.adoc)
+24.01.2019 05:49:54: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Brukstilfeller\Samhandlingsmønstre.adoc)
+24.01.2019 05:49:56: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonssikkerhet\README.adoc)
+24.01.2019 05:49:57: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\eMelding\README.adoc)
+24.01.2019 05:50:00: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\eOppslag\eOppslag-Referansearkitektur.adoc)
+24.01.2019 05:50:02: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\eOppslag\README.adoc)
+24.01.2019 05:50:04: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\eOppslag\sikkerhet\20180629-eoppslag-autorisering-og-delegering.adoc)
+24.01.2019 05:50:05: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\eOppslag\sikkerhet\eOppslag_sikkerhetsmodell_overordnet.adoc)
+24.01.2019 05:50:07: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Informasjonsutveksling\eOppslag\sikkerhet\README.adoc)
+24.01.2019 05:50:10: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Generelt.adoc)
+24.01.2019 05:50:14: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\main.adoc)
+24.01.2019 05:50:19: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Steg1.adoc)
+24.01.2019 05:50:21: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Steg2.adoc)
+24.01.2019 05:50:22: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Steg3.adoc)
+24.01.2019 05:50:24: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Metode\Steg4.adoc)
+24.01.2019 05:50:26: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Strategisk_tilnærming\main.adoc)
+24.01.2019 05:50:27: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\referansearkitekturer\Strategisk_tilnærming\Referansearkitekturer.adoc)
+24.01.2019 05:50:29: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\main.adoc)
+24.01.2019 05:50:31: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\oystein.adoc)
+24.01.2019 05:50:32: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\README.adoc)
+24.01.2019 05:50:33: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\LOS\main.adoc)
+24.01.2019 05:50:35: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\referanseinformasjon\taksonomier\research\klassifikasjonssystemer-research.adoc)
+24.01.2019 05:50:36: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\main.adoc)
+24.01.2019 05:50:38: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\applikasjonsstandarder\README.adoc)
+24.01.2019 05:50:39: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\datastandarder\README.adoc)
+24.01.2019 05:50:41: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\forretningsstandarder\README.adoc)
+24.01.2019 05:50:42: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\standarder\teknologistandarder\README.adoc)
+24.01.2019 05:50:44: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\main.adoc)
+24.01.2019 05:50:45: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\behovsinnspill\main.adoc)
+24.01.2019 05:50:47: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\styring-og-oppfølging\behovsinnspill\nasjonal-testdataportal\README.adoc)
+24.01.2019 05:50:49: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\blogg\all-of-government.adoc)
+24.01.2019 05:50:51: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\blogg\main.adoc)
+24.01.2019 05:50:52: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\blogg\2018-12-28-sporsmål-om-drift-og-forvaltning-av-ikt\sporsmål-om-drift-og-forvaltning-av-ikt.adoc)
+24.01.2019 05:50:54: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\main.adoc)
+24.01.2019 05:50:55: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\arkitekturrammeverk-india\8-reference-models.adoc)
+24.01.2019 05:50:57: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\arkitekturrammeverk-india\indias-arkitekturrammeverk.adoc)
+24.01.2019 05:50:59: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\arkitekturrammeverk-india\integration-reference-model.adoc)
+24.01.2019 05:51:00: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\arkitekturrammeverk-india\main.adoc)
+24.01.2019 05:51:02: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\arkitekturrammeverk-india\performance-reference-model.adoc)
+24.01.2019 05:51:03: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\bok-dmbok2\main.adoc)
+24.01.2019 05:51:05: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\bok-navigating-the-labyrinth\main.adoc)
+24.01.2019 05:51:06: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\kurs-archimate-intro\kjøreplan.adoc)
+24.01.2019 05:51:08: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\kurs-archimate-intro\main.adoc)
+24.01.2019 05:51:10: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\kurs-archimate-intro\praktiske-øvelser.adoc)
+24.01.2019 05:51:14: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\kurs-archimate-intro\temaer.adoc)
+24.01.2019 05:51:21: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\metode_siam\main.adoc)
+24.01.2019 05:51:22: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\referansearkitektur-the-opengroup-iot\main.adoc)
+24.01.2019 05:51:25: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\referansearkitektur-the-opengroup-it4it\main.adoc)
+24.01.2019 05:51:27: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\standard-archimate\kilder-til-kunnskap.adoc)
+24.01.2019 05:51:28: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\kunnskapsbibliotek\standard-archimate\main.adoc)
+24.01.2019 05:51:30: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\modeller\main.adoc)
+24.01.2019 05:51:32: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\om-plattformen\archi-tips.adoc)
+24.01.2019 05:51:34: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\om-plattformen\main.adoc)
+24.01.2019 05:51:37: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\main.adoc)
+24.01.2019 05:51:38: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\archi\main.adoc)
+24.01.2019 05:51:40: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\asciidoc\asciidoc-tips.adoc)
+24.01.2019 05:51:42: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\asciidoc-fx\asciidoc-fx.adoc)
+24.01.2019 05:51:43: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\asciidoc-fx\main.adoc)
+24.01.2019 05:51:45: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\asciidoctor\asciidoctor.adoc)
+24.01.2019 05:51:46: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\praktiske-tips\github\main.adoc)
+24.01.2019 05:51:48: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\main.adoc)
+24.01.2019 05:51:49: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+24.01.2019 05:51:51: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+24.01.2019 05:51:52: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)
+24.01.2019 06:07:10: GenerateHtml
+24.01.2019 06:07:10: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\arkitekturbibliotek\main.adoc)
+24.01.2019 06:07:12: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\modeller\main.adoc)

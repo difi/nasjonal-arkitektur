@@ -1,0 +1,18 @@
+:lang: no
+:difi_orig_language: no
+:difi_translation_status: -
+
+:doctitle_no: Løsningsbyggeklosser
+:keywords_no: Løsningsbyggeklosser, arkitekturbibliotek
+:doctitle_en: English title TBD  
+:keywords_en: English keywords TBD
+
+:preamble: Løsningsbyggeklosser ...
+
+include::./felles/includes/standardheader.adoc[]
+include::./felles/includes/commonlinks1.adoc[]
+
+// Article contents written below
+:numbered: 
+== Kapittel
+=== Underkapittel

@@ -1,0 +1,22 @@
+:lang: no
+:attr_orig_language: no
+:attr_translation_status: -
+
+////
+// You may override the default author and email, normally displayed just below the heading
+:author: Your Name
+:email: your.name@company.no
+////
+
+:doctitle_no: Mal for generell artikkel
+:keywords_no: Mal, Generell artikkel
+:doctitle_en: English title TBD
+:keywords_en: English keywords TBD
+
+:preamble: Eventuell kort intro her (preamble)
+
+include::./felles/includes/standardheader.adoc[]
+include::./felles/includes/commonlinks1.adoc[]
+
+// Article contents written below
+...

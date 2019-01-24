@@ -1,0 +1,16 @@
+:lang: no
+:doctitle: Archimate
+:keywords: Archimate
+:preamble: Om Archimate-standarden, læringsressurser og opplæringstilbud 
+
+ifndef::standardheader_included[]
+include::./felles/includes/standardheader.adoc[]
+include::./felles/includes/commonlinks1.adoc[]
+endif::[]
+
+
+////
+////
+image:./felles/images/i-arbeid.png[width=75, height=75]
+
+== Bøker

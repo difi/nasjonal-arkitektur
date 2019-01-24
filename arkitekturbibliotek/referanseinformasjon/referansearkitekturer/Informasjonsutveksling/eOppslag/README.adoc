@@ -1,0 +1,18 @@
+:lang: no
+:difi_orig_language: no
+:difi_translation_status: -
+:doctitle_no: 2018 Referansearkitekturer for eOppslag
+:keywords_no: eOppslag, referansearkitektur
+:doctitle_en: English title TBD  
+:keywords_en: English keywords TBD
+
+:preamble: Område for lagring av dokumentasjon relatert til arbeidet med referansearkitektuerer for eOppslag. 
+
+include::./felles/includes/standardheader.adoc[]
+include::./felles/includes/commonlinks1.adoc[]
+
+// Article contents written below this point
+== Møtereferater
+2018_08_15_Oppsummering_etter_møte_om_eOppslag,_informasjonssikkerhet 
+
+== Kladdeområder

@@ -1,0 +1,55 @@
+:lang: no
+:doctitle: Praktiske tips om Asciidoc for å redigere dokumenter
+:keywords: Asciidoc
+
+include::./felles/includes/commonincludes.adoc[]
+
+[.lead]
+Asciidoc er....
+
+image:./felles/images/i-arbeid.png[width=75, height=75] Uferdig innhold
+
+:imagesdir!:
+:imagesdir@: ./images
+
+
+////
+////
+
+== Om Asciidoc
+Asciidoc er ...
+
+Her er noen kilder til informasjon om Asciidoc:
+
+* https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Asciidoc syntax quick reference]
+* https://asciidoctor.org/docs/asciidoc-writers-guide/[Asciidoc Writers Guide]
+* https://asciidoctor.org/docs/user-manual/[Asciidoctor User Manual]
+
+
+== Tips om redigeringsverktøy for Asciidoc
+Flere verktøy for editering av Asciidoc finnes. De fleste vil ha nytte av en editor som gir støtte til formatering og gir  forhåndsvisnig av resultatet, men det er også mulig å benytte en ordinær teksteditor som f.eks. Notepad++ eller redigere tekst direkte i netleseren på Github.com. 
+
+Om du ikke har mulighet til å installere programvare på din maskin og ikke vil vente til du får hjelp av noen med administratorrettigheter, kan du forsøke å arbeide direkte i nettleseren under https://github.com/difi/nasjonal_arkitektur , uten å klone til lokalt filområde. Du kan alternativt bruke asciidoclive; ref. https://asciidoclive.com/edit/scratch/1
+
+Anbefalt her:
+
+* AsciidocFX fungerer godt for editering av innhold på AsciiDoc-format, og støtter dessuten en rekke andre formater, inkl. Markdown. Last ned AsciidocFX fra 
+https://github.com/asciidocfx/AsciidocFX/releases/[] og arbeid lokalt etter å ha klonet Github-biblioteket.
++
+_Merk: Oppstart av AsciidocFX kan ta litt tid, men fungerer ellers meget raskt. Html forhåndsvisning er umiddelbar og nær opp til det endelige resultatet (som Difi genererer med programmet Asciidoctor). Noen mindre bugs finnes, men programmet er i kontinuerlig utvikling._
+
+Se også link:./asciidoc-fx/main.adoc[mer om AsciidocFX].
+
+NOTE: Du står helt fritt til å bruke andre verktøy om du vil.
+
+== Tips om skriving i Asciidoc
+Du kan gjøre det helt enkelt eller mer eller mindre avansert.
+
+Difi har etablert noen maler i tilknytning til arkitekturbiblioteket som er ment å skulle forenkle arbeidet for hver enkelt, samtidig som en får et ensartet utseende og et opplegg for å vedlikeholde tekster på flere språk, metadata m.m.
+
+[red]#Disse malene finnes her: ...#
+
+Kopier aktuell mal til aktuelt arbeidsområde og start å skrive.
+
+WARNING: #TODO: her kommer det mer info...#
+

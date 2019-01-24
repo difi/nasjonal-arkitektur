@@ -1,0 +1,23 @@
+:lang: no
+:doctitle: Asciidoc FX
+
+include::./felles/includes/standardheader.adoc[]
+
+
+
+[.lead]
+Asciidoc FX is a book / document editor to build PDF, Epub, Mobi and HTML books, documents and slides
+
+//image:./felles/images/i-arbeid.png[width=75, height=75] Uferdig innhold
+
+
+//:numbered:
+
+////
+////
+
+
+:leveloffset!:
+//== Om Asciidoc-fx 
+:leveloffset: +1
+include::./asciidoc-fx.adoc[]

@@ -1,0 +1,8 @@
+:lang: no
+:keywords: taksonomier
+ifndef::standardheader_included[]
+:doctitle: Øystein om taksonomier?
+include::./felles/includes/standardheader.adoc[]
+endif::[]
+
+== Kap. 1?

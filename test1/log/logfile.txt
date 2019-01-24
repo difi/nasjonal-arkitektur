@@ -1,0 +1,86 @@
+﻿
+03.01.2019 16:35:38: GenerateHtml
+03.01.2019 16:35:38: RunAsciiDoctor(file)
+03.01.2019 16:35:38: RunAsciiDoctor(file)
+03.01.2019 16:35:38: RunAsciiDoctor(file)
+03.01.2019 16:35:38: RunAsciiDoctor(file)
+03.01.2019 16:38:34: GenerateHtml
+03.01.2019 16:38:34: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\main.adoc)
+03.01.2019 16:38:34: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1 – Kopi.adoc)
+03.01.2019 16:38:34: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\main.adoc)
+03.01.2019 16:38:34: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.adoc)
+03.01.2019 17:02:41: GenerateHtml
+03.01.2019 17:02:41: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 17:02:41: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1 – Kopi.adoc)
+03.01.2019 17:02:41: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 17:02:41: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.adoc)
+03.01.2019 17:29:55: GenerateHtml
+03.01.2019 17:29:55: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 17:36:32: GenerateHtml
+03.01.2019 17:36:32: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 17:36:32: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1 – Kopi.adoc)
+03.01.2019 18:10:53: GenerateHtml
+03.01.2019 18:10:53: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 18:10:53: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1 – Kopi.adoc)
+03.01.2019 18:10:53: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:10:53: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.adoc)
+03.01.2019 18:14:29: GenerateHtml
+03.01.2019 18:14:29: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 18:14:29: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1 – Kopi.adoc)
+03.01.2019 18:14:29: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:14:29: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.adoc)
+03.01.2019 18:17:42: GenerateHtml
+03.01.2019 18:17:42: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 18:17:42: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1 – Kopi.adoc)
+03.01.2019 18:17:42: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:17:42: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.adoc)
+03.01.2019 18:23:23: GenerateHtml
+03.01.2019 18:23:23: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 18:23:23: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 18:23:23: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:23:23: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.adoc)
+03.01.2019 18:26:48: GenerateHtml
+03.01.2019 18:26:48: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 18:26:48: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 18:26:48: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:26:48: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)
+03.01.2019 18:33:15: GenerateHtml
+03.01.2019 18:33:15: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 18:33:15: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 18:33:15: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:33:15: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)
+03.01.2019 18:38:18: GenerateHtml
+03.01.2019 18:38:18: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 18:38:18: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 18:38:18: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:38:18: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)
+03.01.2019 18:47:13: GenerateHtml
+03.01.2019 18:47:13: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 18:47:13: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 18:47:13: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:47:13: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)
+03.01.2019 18:48:22: GenerateHtml
+03.01.2019 18:48:22: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\index.adoc)
+03.01.2019 18:48:22: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 18:48:22: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:48:22: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)
+03.01.2019 18:59:59: GenerateHtml
+03.01.2019 18:59:59: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\main.adoc)
+03.01.2019 18:59:59: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 18:59:59: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 18:59:59: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)
+03.01.2019 19:04:38: GenerateHtml
+03.01.2019 19:04:38: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\main.adoc)
+03.01.2019 19:04:38: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 19:04:38: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 19:04:38: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)
+03.01.2019 19:16:50: GenerateHtml
+03.01.2019 19:16:50: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\main.adoc)
+03.01.2019 19:16:50: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 19:16:50: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 19:16:50: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)
+03.01.2019 19:17:58: GenerateHtml
+03.01.2019 19:17:58: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\main.adoc)
+03.01.2019 19:17:58: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1-Kopi.adoc)
+03.01.2019 19:17:58: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.1\index.adoc)
+03.01.2019 19:17:58: RunAsciiDoctor(C:\Users\eha\OneDrive\GitHub\nasjonal-arkitektur\nasjonal-arkitektur.github.io\test1\test1.2\test1.2.adoc)

@@ -1,0 +1,39 @@
+:lang: no
+:doctitle: Referanseinformasjon
+:keywords: Referansebibliotek
+
+
+include::./felles/includes/commonincludes.adoc[]
+
+. Begreper
+. link:./referansearkitekturer[Nasjonale referansearkitekturer]
+. Taksonomier
+. Informasjonsmodeller
+. Maler
+. Metodikk og rammeverk
+
+
+////
+== Begreper
+== Informasjonsmodeller
+== Maler
+== Metodikk og rammeverk
+== Taksonomier
+== Nasjonale referansearkitekturer
+:leveloffset: +1
+include::./referansearkitekturer/main.adoc[]
+////
+
+////
+leveloffset!:
+== Informasjonsmodeller
+:leveloffset: +1
+include::./informasjonsmodeller/main.adoc[]
+leveloffset!:
+:leveloffset: +1
+include::./metodikk/main.adoc[]
+leveloffset!:
+:leveloffset: +1
+include::./maler/main.adoc[]
+////
+

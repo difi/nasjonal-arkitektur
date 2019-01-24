@@ -1,0 +1,23 @@
+:description: This is a simple template for articles to be written in Norwegian and English, with Norwegian being the original language and English being a translation. You may delete this description or substitute it for a short description of your own. See https://asciidoctor.org/docs/user-manual/#description[Asciidocto user manual] for more info about the description attribute
+//
+:lang: no
+:attr_orig_language: no
+// For :attr_translation_status:. use "-" for "missing", "+" for "incomplete" and "v" for "done"
+:attr_translation_status: -
+:doctitle_no: Begreper
+:keywords_no: begreper, begrepskatalog
+:doctitle_en:
+:keywords_en: 
+:keywords_en:
+:revdate: 2018-08-06
+include::./felles/includes/standardheader.adoc[]
+include::./felles/includes/commonlinks1.adoc[]
+
+ifeval::["{lang}" == "no"]
+#Norsk innhold skrives her...#
+endif::[]
+
+ifeval::["{lang}" == "en"]
+#Contents in the english langage to be written here...#
+endif::[]
+

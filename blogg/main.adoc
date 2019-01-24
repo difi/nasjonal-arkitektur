@@ -1,0 +1,19 @@
+:lang: no
+:doctitle: Meningsutveksling
+:keywords: Blogg
+:preamble: Blogger og personlige meninger om nasjonal arkitektur.
+
+ifndef::standardheader_included[]
+include::./felles/includes/standardheader.adoc[]
+include::./felles/includes/commonlinks1.adoc[]
+endif::[]
+
+
+////
+////
+image:../images/i-arbeid.png[width=75, height=75] Uferdig innhold - første versjon er fremdeles i arbeid
+
+:leveloffset!:
+:leveloffset: +2
+
+include::./all-of-government.adoc[sadsad]
